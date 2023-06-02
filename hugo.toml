@@ -1,0 +1,4 @@
+baseURL = 'https://shop.soulminingrig.com/'
+languageCode = 'ja-jp'
+title = '仙台site'
+theme = 'axile-hugo'
